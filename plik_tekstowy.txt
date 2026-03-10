@@ -3,3 +3,5 @@ pozdr
 sprawdzam opcje fast forward
 siemaneczko
 zobaczmy czy sie udalo
+
+to na pewno nowy plik
