@@ -2,3 +2,5 @@ dzien dobry
 pozdr
 siemaneczko
 zobaczmy czy sie udalo
+
+to jest chyba nowy plik
